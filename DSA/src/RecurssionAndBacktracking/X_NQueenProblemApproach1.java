@@ -8,7 +8,7 @@ package RecurssionAndBacktracking;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _23NQueenProblemApproach1 {
+public class X_NQueenProblemApproach1 {
 	public static void main(String[] args) {
 		int n = 4;
 		List<List<String>> ans = solveNQueens(n);

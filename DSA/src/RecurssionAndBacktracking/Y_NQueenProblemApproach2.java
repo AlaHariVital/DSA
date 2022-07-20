@@ -5,7 +5,7 @@ package RecurssionAndBacktracking;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _24NQueenProblemApproach2 {
+public class Y_NQueenProblemApproach2 {
 	public static void main(String[] args) {
 		int n = 5;
 		List<List<String>> ans = solveNQueens(n);

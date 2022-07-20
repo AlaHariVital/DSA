@@ -16,7 +16,7 @@ public class R_FindCombinationWhoseSumSWithNoDuplicates {
 		int[] arr= {10,1,2,7,6,1,5};
 		int target = 8;
 		ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
-		//We need to sort the array to find the combinations.
+		//We need to sort the array to find the combinations,so that we can identify if two elements are same easily
 		Arrays.sort(arr);
 		find(0,arr,target,new ArrayList<Integer>(),ans);
 		for(ArrayList<Integer> i:ans) {

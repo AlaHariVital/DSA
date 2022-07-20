@@ -6,7 +6,7 @@ package RecurssionAndBacktracking;
 
 import java.util.ArrayList;
 
-public class _26GraphColouringWithMColors {
+public class ZA_GraphColouringWithMColors {
 	public static void main(String[] args) {
 		int n=4;
 		int m=2;

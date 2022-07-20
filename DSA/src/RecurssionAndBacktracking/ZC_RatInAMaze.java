@@ -7,7 +7,7 @@ package RecurssionAndBacktracking;
 
 import java.util.ArrayList;
 
-public class _28RatInAMaze {
+public class ZC_RatInAMaze {
 	public static void main(String[] args) {
 		int n=4;
 		int[][] maze = {{1,0,0,0},{1,1,0,1},{1,1,0,0},{0,1,1,1}};

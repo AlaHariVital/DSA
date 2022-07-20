@@ -5,7 +5,7 @@ package RecurssionAndBacktracking;
 
 import java.util.ArrayList;
 
-public class _29FindingKthPermutationOptimalWithoutUsingRecurssion {
+public class ZD_FindingKthPermutationOptimalWithoutUsingRecurssion {
 	public static void main(String args[]) {
         int n = 4, k = 17;
         String ans = getPermutation(n, k);

@@ -5,7 +5,7 @@ package RecurssionAndBacktracking;
 
 import java.util.ArrayList;
 
-public class _22AllPermutationsWithLessSpaceComplexity {
+public class W_AllPermutationsWithLessSpaceComplexity {
 	public static void main(String[] args) {
 		int[] arr = {1,2,3};
 		Solution22 obj = new Solution22();

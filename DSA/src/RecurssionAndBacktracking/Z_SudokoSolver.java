@@ -2,7 +2,7 @@
 //this program find the possible condition
 package RecurssionAndBacktracking;
 
-public class _25SudokoSolver {
+public class Z_SudokoSolver {
 	public static void main(String[] args) {
 		char[][] board= {
                 {'9', '5', '7', '.', '1', '3', '.', '8', '4'},

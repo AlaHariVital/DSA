@@ -12,7 +12,7 @@ package RecurssionAndBacktracking;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _27PartitioningIntoPalindromeStrings {
+public class ZB_PartitioningIntoPalindromeStrings {
 	public static void main(String[] args) {
 		String s = "aabb";
 		List<List<String>> ans = partitons(s);
