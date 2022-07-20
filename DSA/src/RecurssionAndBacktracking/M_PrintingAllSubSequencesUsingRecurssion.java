@@ -1,6 +1,6 @@
 //A sub sequence is contiguous/non-contiguous sequence which follow the order of the given array.
 //for every index in array we can pick or unpick an element to form sub sequence.  
-
+//We can pick an element only once
 package RecurssionAndBacktracking;
 
 import java.util.ArrayList;
